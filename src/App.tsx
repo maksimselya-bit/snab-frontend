@@ -1,6 +1,6 @@
 import React, { useEffect, useMemo, useState } from "react";
 
-const API = "https://snab-backend.onrender.com";
+const API = "https://api.snabapp.ru";
 const AUTH_KEY = "snab_auth_user";
 
 type AuthUser = {
